@@ -1,18 +1,16 @@
 //: C02:WhitepaceCount.cpp
-// Excercise 3: Count the whitespace in a file
+// Excercise 3: Count the whitespace-seperated words in a file
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <vector>
 using namespace std;
 int main() {
   int count = 0;
-  vector<string> v;
-  ifstream in("Mytext.txt");
   string word;
+  ifstream in("Mytext.txt");
   while(in >> word) {
-    v.push_back(word);  
+    count++;
   }
-  cout << v.size()-1;
+  cout << count;
   return 0;  
 }

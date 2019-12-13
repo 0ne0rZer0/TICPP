@@ -6,4 +6,5 @@
 ### Index :
   1. Introduction to Objects
   2. Making and using Objects
+  3. The C in C++
 ----------------

@@ -11,6 +11,7 @@ int main() {
   string* lineptr;
   string line;
   string *s;
+  int i = 0;
 //  line = new string("Sl");
 //  strStack.push(line);
   while(getline(in,line)) {

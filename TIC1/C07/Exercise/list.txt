@@ -1,0 +1,35 @@
+GAS LISTING /tmp/ccUtqcuV.s 			page 1
+
+
+   1              		.file	"ex03.cpp"
+   2              		.text
+   3              	.Ltext0:
+   4              	.Letext0:
+   5              		.section	.debug_line,"",@progbits
+   6              	.Ldebug_line0:
+   7              		.section	.debug_str,"MS",@progbits,1
+   8              	.LASF0:
+   9 0000 474E5520 		.string	"GNU C++14 7.4.0 -mtune=generic -march=x86-64 -g -O -fstack-protector-strong"
+   9      432B2B31 
+   9      3420372E 
+   9      342E3020 
+   9      2D6D7475 
+  10              	.LASF1:
+  11 004c 2F686F6D 		.string	"/home/oneorzero/Work/TICPP/TIC1/C07/Exercise"
+  11      652F6F6E 
+  11      656F727A 
+  11      65726F2F 
+  11      576F726B 
+  12              	.LASF2:
+  13 0079 65783033 		.string	"ex03.cpp"
+  13      2E637070 
+  13      00
+  14              		.ident	"GCC: (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0"
+  15              		.section	.note.GNU-stack,"",@progbits
+GAS LISTING /tmp/ccUtqcuV.s 			page 2
+
+
+DEFINED SYMBOLS
+                            *ABS*:0000000000000000 ex03.cpp
+
+NO UNDEFINED SYMBOLS
